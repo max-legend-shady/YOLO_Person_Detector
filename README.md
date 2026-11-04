@@ -26,7 +26,7 @@ The installation may take some time, depending on your internet connection. This
 
 2\.	**Install the required libraries**
 
-Open a terminal and navigate to the folder containing the programme.
+Open a terminal and navigate to the folder containing the program.
 
 Run the following command to install the required libraries:
 
