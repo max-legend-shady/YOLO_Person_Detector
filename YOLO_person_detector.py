@@ -219,6 +219,7 @@ def show_credits():
     print("\nSpecial thanks to the open-source community for providing the YOLO models and the ultralytics library.")
     # Offer contact information for feedback or questions about the program
     print("\nThis program was made as a personal project to learn more about computer vision and object detection.")
+    print("I also wrote an article on this project, which you can find at: https://medium.com/@manuel-heredia-estrada/how-i-built-a-yolo-based-program-in-python-that-can-find-people-in-images-e01afd06e701")
     print("If you have any questions or feedback, please feel free to reach out to me at the following email: manu.heredia.estrada@gmail.com")
     # Encourage the user to enjoy using the program
     print("\nEnjoy using the YOLO Person Detection Program!")
