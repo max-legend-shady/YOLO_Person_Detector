@@ -1,4 +1,5 @@
 ⚠️ **OBSOLETE — Development has moved**
+
 This repository contains the original YOLO Person Detector project. It has now been superseded by [Y-MAX](https://github.com/max-legend-shady/Y-MAX), which expands the original project with video analysis and additional computer vision capabilities.
 
 This repository is preserved for historical purposes and is no longer actively maintained.
